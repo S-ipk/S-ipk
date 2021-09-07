@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, This is Safiye :) 👋
 
-<!--
-**S-ipk/S-ipk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ # About Me
+
+   I am an innovative Software Test Automation Engineer with having more than 3 years of experience managing all aspects of the development process for small to medium-sized companies.
+
+- 🔭 I’m currently working on UI and Mobile Testing
+- 🌱 I’m currently learning Cypress Framework,Pen Testing
+- 👯 I’m looking to collaborate on all kind of testing tools :) 
+- 🤔 I’m looking for help with UI and Mobile Testing
+- 💬 Ask me about anything about Testing
+- 📫 How to reach me: Linkedin or email me : safiyeipkk@gmail.com
+- 😄 Pronouns: Let's call me as Sofia 
+- ⚡ Fun fact: Hot water will turn into ice faster than cold water.
+
