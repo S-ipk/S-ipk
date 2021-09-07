@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on all kind of testing tools :) 
 - 🤔 I’m looking for help with UI and Mobile Testing
 - 💬 Ask me about anything Testing
-- 📫 How to reach me: Linkedin or email me : safiyeipkk@gmail.com
+- 📫 How to reach me: Linkedin or email me : safiyeipekk@gmail.com
 - 😄 Pronouns: Let's call me as Sofia 
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
