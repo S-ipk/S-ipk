@@ -12,6 +12,5 @@
 - 👯 I’m looking to collaborate on all kind of testing tools :) 
 - 🤔 I’m looking for help Cloud Computing
 - 💬 Ask me about anything Testing
-- 😄 Pronouns: Let's call me as Sofia 
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
