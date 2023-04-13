@@ -5,10 +5,10 @@
 
  # About Me
 
-   I am an innovative Software Test Automation Engineer with having more than 3 years of experience managing all aspects of the development process for small to medium-sized companies.
+   I am an innovative Software Test Automation Engineer with having around 5 years of experience managing all aspects of the development process for small to medium-sized companies.
 
-- 🔭 I’m currently working on UI and Mobile Testing
-- 🌱 I’m currently learning Cypress Framework,Pen Testing
+- 🔭 I’m currently working on Mobile Testing with Maestro
+- 🌱 I’m currently learning Cypress Framework
 - 👯 I’m looking to collaborate on all kind of testing tools :) 
 - 🤔 I’m looking for help Cloud Computing
 - 💬 Ask me about anything Testing
