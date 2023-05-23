@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Mobile Testing with Maestro
 - 🌱 I’m currently learning Performance Testing
-- 👯 I’m looking to collaborate on all kind of testing testing tools :) 
+- 👯 I’m looking to collaborate on all kind of software testing tools :) 
 - 🤔 I’m looking for help Cloud Computing
 - 💬 Ask me about anything Testing
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
