@@ -7,8 +7,8 @@
 
    I am an innovative Software Test Automation Engineer with having around 5 years of experience managing all aspects of the development process for small to medium-sized companies.
 
-- 🔭 I’m currently working on Mobile Testing with Maestro
-- 🌱 I’m currently learning Performance Testing
+- 🔭 I’m currently working on Web Testing with Cypress- JS 
+- 🌱 I’m currently learning PPlaywright for Web testing 
 - 👯 I’m looking to collaborate on all kind of software testing tools :) 
 - 🤔 I’m looking for help Cloud Computing
 - 💬 Ask me about anything Testing
